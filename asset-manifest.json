@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Notepad/static/css/main.ebbc0c3c.css",
+    "main.js": "/Notepad/static/js/main.737e9468.js",
+    "static/js/787.1f50f65d.chunk.js": "/Notepad/static/js/787.1f50f65d.chunk.js",
+    "index.html": "/Notepad/index.html",
+    "main.ebbc0c3c.css.map": "/Notepad/static/css/main.ebbc0c3c.css.map",
+    "main.737e9468.js.map": "/Notepad/static/js/main.737e9468.js.map",
+    "787.1f50f65d.chunk.js.map": "/Notepad/static/js/787.1f50f65d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebbc0c3c.css",
+    "static/js/main.737e9468.js"
+  ]
+}
